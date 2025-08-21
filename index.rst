@@ -47,12 +47,15 @@ Additional Support Resources
 Frequently Asked Questions (FAQs)
 ---------------------------------
 Q: Is the HP support phone number free?  
+
 A: Yes, calls to HP support are typically toll-free within the United States and Canada.
 
 Q: What are the support hours?  
+
 A: HP support is generally available Monday to Friday, 8 AM to 8 PM local time.
 
 Q: Can I get support for all HP printer models?  
+
 A: Yes, the HP support phone line covers all consumer and business HP printers.
 
 Conclusion
