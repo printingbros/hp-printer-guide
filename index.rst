@@ -66,3 +66,11 @@ Conclusion
 ----------
 For any HP printer-related issues, contacting the official HP printer support phone number is the fastest way to receive personalized help.
 
+Disclaimer
+==========
+
+We are an independent third-party support provider and are not affiliated, endorsed, or sponsored by Hewlett-Packard (HP). 
+
+This guide is intended to offer helpful information and assistance related to HP printer support. For official HP services, warranty, and technical support, please contact HP directly through their authorized support channels.
+
+
