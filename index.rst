@@ -1,3 +1,7 @@
+.. meta::
+   :description: Contact the official HP printer support phone number for technical help, setup assistance, and printer troubleshooting.
+   :keywords: hp printer support, hp printer support phone number, hp technical support, hp customer service
+
 ========================================================
 HP Printer Support Phone Number Guide
 ========================================================
