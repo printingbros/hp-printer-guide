@@ -10,9 +10,9 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'PeacockTV.com/tv'
-copyright = '2025, PeacockTV.com/tv'
-author = 'PeacockTV.com/tv'
+project = 'HP Printer Support Phone Number'
+copyright = '2025, HP Printer'
+author = 'James Smith'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
@@ -20,11 +20,11 @@ release = '1.0.0'
 # -- HTML output settings ----------------------------------------------------
 
 # SEO Title for browser tab and HTML pages
-html_title = "PeacockTV.com/tv – Activate Peacock TV on Your Device"
+html_title = "HP Printer Support Phone Number Guide"
 
 
 # Optional short title for nav bar
-html_short_title = "Activate Peacock TV on Your Device"
+html_short_title = "HP Printer Support"
 
 # Favicon (place favicon.ico in the root or _static folder)
 html_favicon = 'favicon.ico'
